@@ -1,0 +1,28 @@
+[
+ 
+  { "name": "Bhopal",     "temp": 27, "weather": "Clear",         "humidity": 45, "wind": 3.2  },
+  { "name": "Chennai",    "temp": 33, "weather": "Humid",         "humidity": 78, "wind": 4.5  },
+  { "name": "Kolkata",    "temp": 31, "weather": "Cloudy",        "humidity": 70, "wind": 3.8  },
+  { "name": "Bangalore",  "temp": 24, "weather": "Pleasant",      "humidity": 55, "wind": 3.1  },
+  { "name": "Delhi",      "temp": 30, "weather": "Sunny",         "humidity": 40, "wind": 3.5  },
+  { "name": "Mumbai",     "temp": 32, "weather": "Humid",         "humidity": 75, "wind": 2.8  },
+  { "name": "Gurugram",   "temp": 28, "weather": "Sunny",         "humidity": 50, "wind": 5.1  },
+  { "name": "Jaipur",     "temp": 29, "weather": "Sunny",         "humidity": 35, "wind": 4.0  },
+  { "name": "Hyderabad",  "temp": 28, "weather": "Clear",         "humidity": 50, "wind": 3.6  },
+  { "name": "Pune",       "temp": 26, "weather": "Partly Cloudy", "humidity": 48, "wind": 3.4  },
+  { "name": "Ahmedabad",  "temp": 34, "weather": "Hot",           "humidity": 33, "wind": 4.2  },
+  { "name": "Lucknow",    "temp": 28, "weather": "Haze",          "humidity": 60, "wind": 3.7  },
+  { "name": "Chandigarh", "temp": 23, "weather": "Clear",         "humidity": 42, "wind": 3.0  },
+  { "name": "Indore",     "temp": 21, "weather": "Haze",          "humidity": 52, "wind": 5.14 },
+  { "name": "London",     "temp": 15, "weather": "Cloudy",        "humidity": 65, "wind": 4.1  },
+  { "name": "Dubai",      "temp": 38, "weather": "Hot",           "humidity": 30, "wind": 5.5  },
+  { "name": "Toronto",    "temp": 8,  "weather": "Snow",          "humidity": 80, "wind": 6.8  },
+  { "name": "New York",   "temp": 10, "weather": "Rainy",         "humidity": 70, "wind": 6.2  },
+  { "name": "Tokyo",      "temp": 18, "weather": "Clear",         "humidity": 55, "wind": 3.9  },
+  { "name": "Paris",      "temp": 14, "weather": "Foggy",         "humidity": 60, "wind": 4.3  },
+  { "name": "Sydney",     "temp": 22, "weather": "Sunny",         "humidity": 50, "wind": 5.0  },
+  { "name": "Berlin",     "temp": 12, "weather": "Cloudy",        "humidity": 68, "wind": 4.7  },
+  { "name": "Moscow",     "temp": -5, "weather": "Snowy",         "humidity": 85, "wind": 7.2  },
+  { "name": "Rome",       "temp": 16, "weather": "Clear",         "humidity": 45, "wind": 3.8  },
+  { "name": "Madrid",     "temp": 20, "weather": "Sunny",         "humidity": 40, "wind": 4.0  }
+]
