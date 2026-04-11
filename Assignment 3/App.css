@@ -1,0 +1,124 @@
+/* Background grid */
+.app {
+  min-height: 100vh;
+  background: #020617;
+  background-image: linear-gradient(rgba(0,255,200,0.05) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(0,255,200,0.05) 1px, transparent 1px);
+  background-size: 40px 40px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+/* Container */
+.container {
+  width: 900px;
+}
+
+/* Title */
+.main-title {
+  font-size: 48px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.main-title span {
+  color: #00ffc8;
+  text-shadow: 0 0 15px #00ffc8;
+}
+
+/* Form */
+.form {
+  margin-top: 20px;
+  display: flex;
+  border: 1px solid #00ffc833;
+}
+
+.form input {
+  flex: 1;
+  padding: 12px;
+  background: transparent;
+  border: none;
+  color: white;
+  outline: none;
+}
+
+.form button {
+  padding: 12px 20px;
+  background: transparent;
+  color: #00ffc8;
+  border-left: 1px solid #00ffc833;
+  cursor: pointer;
+}
+
+/* Stats */
+.stats {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0;
+  border: 1px solid #00ffc833;
+  padding: 20px;
+}
+
+.stats p {
+  font-size: 12px;
+  color: #aaa;
+}
+
+.stats h2 {
+  color: #00ffc8;
+}
+
+/* Table Header */
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #00ffc833;
+  color: #aaa;
+}
+
+/* Rows */
+.row {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 10px;
+  border-bottom: 1px solid #00ffc822;
+}
+
+/* Score */
+.score {
+  color: gold;
+}
+
+/* Status */
+.pass {
+  color: #00ff88;
+  border: 1px solid #00ff88;
+  padding: 2px 8px;
+}
+
+.fail {
+  color: #ff4d6d;
+  border: 1px solid #ff4d6d;
+  padding: 2px 8px;
+}
+
+/* Update section */
+.row input {
+  width: 60px;
+  background: transparent;
+  border: 1px solid #00ffc833;
+  color: white;
+  text-align: center;
+  margin-right: 5px;
+}
+
+.row button {
+  background: transparent;
+  border: 1px solid #00ffc833;
+  color: #00ffc8;
+  padding: 4px 10px;
+  cursor: pointer;
+}
