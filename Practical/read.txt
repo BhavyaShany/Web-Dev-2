@@ -1,1 +1,3 @@
-
+https://dummyjson.com/products
+fetch products from api. Display onl product images. show 4 images at a time add next and previous buttons on click next -> next 4 images 
+on click previous-> previous 4 images
